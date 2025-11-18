@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+*.egg-info/
+
+# Environment
+.env
+
+# Recordings and Transcripts
+recordings/
+transcripts/
+*.mp4
+*.wav
+*.txt
+
+# Whisper models
+~/.cache/whisper/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# React Frontend
+frontend/node_modules/
+frontend/build/
+
+# Logs
+*.log
